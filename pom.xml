@@ -7,9 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<sonar.host.url>http://52.1.219.91:9000/</sonar.host.url>
-		<sonar.login>admin</sonar.login>
-		<sonar.password>admin</sonar.password>
+		<sonar.host.url>http://43.204.228.233:9000/</sonar.host.url>
+		<!-- <sonar.login>admin</sonar.login>
+		<sonar.password>admin</sonar.password>  -->
 	</properties>
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
